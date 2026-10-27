@@ -13,7 +13,7 @@ I make Roblox games and the tools around them: Studio plugins, AI dev pipelines,
 
 ### Projects
 
-| | |
+| Project | What it is |
 |---|---|
 | **[Taru Tweaks](https://github.com/Taneelkins/taru-tweaks)** | One macOS app replacing AltTab, Bartender, AlDente, BrightIntosh and the Dock, plus a Windows-style Task Manager. Swift, SwiftUI, AppKit. |
 | **[Claude Brain Starter](https://github.com/Taneelkins/claude-brain-starter)** | Obsidian vault, workflows and MCP setup that turn Claude Code into a Roblox dev partner that remembers your project. |
